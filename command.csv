@@ -1,0 +1,15 @@
+device_type,command
+cisco_xe,show version
+cisco_xe,show ip interface
+cisco_xe,show access-lists
+cisco_xe,show crypto isakmp sa
+cisco_xe,show crypto isakmp peer
+cisco_xe,show crypto isakmp policy
+cisco_xe,show crypto ipsec sa
+cisco_xe,show crypto session
+cisco_xe,show crypto engine connections active
+cisco_nxos,show version
+fortinet,show full-configuration
+cisco_nxos,show running-config
+juniper_junos,show configuration | display set
+juniper_junos,show configuration
