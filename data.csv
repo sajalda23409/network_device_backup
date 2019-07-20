@@ -1,0 +1,7 @@
+device_type,ip_address,username
+cisco_nxos,abcd.hostname.com,admin
+juniper_junos,xyz.hostname.com,admin
+fortinet,10.1.0.2,admin
+cisco_nxos,172.23.24.5,admin
+juniper_junos,192.168.2.1,admin
+fortinet,jkl.com,admin
